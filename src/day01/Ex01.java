@@ -13,5 +13,8 @@ public class Ex01 {
 		System.out.print("출력후 ");
 		System.out.print("줄바꿈이 읎다.\n");
 		System.out.println("학원에서 추가");
+		System.out.println("집에서 추가");	
+		
+//		경로에는 \ 와 
 	}
 }
