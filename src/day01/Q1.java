@@ -9,7 +9,7 @@ public class Q1 {
 		System.out.println("∞Ì±Êµø\t" + "\""+15+"\"\t" + 2238+"-"+1234 + "\t\\"+30000);
 		System.out.println("±Ë∏ª¿Ã\t" + "\""+15+"\"\t" + 1234+"-"+1234 + "\t\\"+50000);
 		System.out.println("---------------------------------------");
-		System.out.println("√—«’∞Ë\t\t\t\t" + "\\100000" );		
+		System.out.println("√—«’∞Ë\t\t\t\t" + "\\"+100000);		
 		System.out.println("---------------------------------------");
 	}
 }
